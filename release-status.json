@@ -1,0 +1,80 @@
+{
+  "checkedAt": "2026-10-16T12:30:34.941720+00:00",
+  "version": "1.2.0",
+  "repository": "https://github.com/TaulGit/hogwarts-echo-pact-cn",
+  "gameId": 9813,
+  "draftUrl": "https://game.virtualoverapp.com/game/draft/9813",
+  "editingVersionId": 24043,
+  "liveVersionId": null,
+  "displayStatus": "draft",
+  "gameFilePresent": true,
+  "coverPresent": true,
+  "runtimeFileCount": 31,
+  "runtimeTotalBytes": 57455068,
+  "runtimePathsMatch": true,
+  "runtimePaths": [
+    "app.js",
+    "assets/armour.png",
+    "assets/classroom.png",
+    "assets/companion.png",
+    "assets/corridor.png",
+    "assets/courtyard.png",
+    "assets/ending-archive.png",
+    "assets/ending-dawn.png",
+    "assets/ending-silence.png",
+    "assets/ending-together.png",
+    "assets/forest.png",
+    "assets/greenhouse.png",
+    "assets/player.png",
+    "assets/shade.png",
+    "assets/story-finale.png",
+    "assets/story-ink.png",
+    "assets/story-leaves.png",
+    "assets/story-ledger.png",
+    "assets/story-letter.png",
+    "assets/story-mirror.png",
+    "assets/story-ring.png",
+    "assets/warden.png",
+    "assets/wisp.png",
+    "content.js",
+    "engine.js",
+    "index.html",
+    "platform.js",
+    "story-visuals.js",
+    "style.css",
+    "visual-feedback.js",
+    "visuals.css"
+  ],
+  "capabilityDeclaration": {
+    "schemaVersion": 1,
+    "capabilities": {
+      "ai": {
+        "enabled": false
+      },
+      "exchange": {
+        "enabled": false
+      },
+      "storage": {
+        "enabled": true
+      },
+      "oss": {
+        "enabled": false
+      }
+    }
+  },
+  "method": "platform-web-zip-upload",
+  "cliVersion": "0.1.42",
+  "cliPublishBlocker": "CAPACITY_PREFLIGHT_UNAVAILABLE",
+  "testsPassed": 23,
+  "realCloudSaveVerified": false,
+  "cdnVerification": {
+    "status": "not_verified",
+    "independentEntryHttpStatus": 403,
+    "methods": [
+      "GET",
+      "HEAD"
+    ],
+    "platformRefererRetried": true,
+    "platformIframeVerified": false
+  }
+}

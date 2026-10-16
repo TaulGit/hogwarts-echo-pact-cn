@@ -6,7 +6,7 @@
 
 本作包含原创人物与中文剧情，以视觉小说、课程成长和双人回合制战斗串起一段完整故事。支持桌面与手机浏览器；当前版本为 **1.2.0**。
 
-[GitHub 仓库](https://github.com/TaulGit/hogwarts-echo-pact-cn) · [验证记录](验证记录.md) · [美术说明](ART.md)
+[星匣草稿](https://game.virtualoverapp.com/game/draft/9813) · [GitHub 仓库](https://github.com/TaulGit/hogwarts-echo-pact-cn) · [验证记录](验证记录.md) · [美术说明](ART.md)
 
 ![画像漏墨与墨钟线索](screenshots/visual-ink.png)
 
@@ -82,9 +82,20 @@ python3 -m http.server 5187 --directory dist
 
 ### 平台版本状态
 
-<!-- RELEASE_STATUS_START: 发布后由维护者填入实际 gameId、草稿版本和平台入口。 -->
+<!-- RELEASE_STATUS_START -->
 
-当前配置 `gameId: 0`。星匣目录与能力预检已通过，远程草稿尚未发布；后续发布结果以本节更新和发布记录为准。
+**星匣草稿已于 2026-10-16 保存。** [编辑草稿](https://game.virtualoverapp.com/game/draft/9813) · [作品详情](https://game.virtualoverapp.com/game/9813)
+
+| 字段 | 已核实状态 |
+| --- | --- |
+| 游戏 ID | `9813` |
+| 在编草稿版本 | `24043` |
+| 平台状态 | `draft` |
+| 正式版本 | 暂无，`liveVersionId: null` |
+| 运行文件 | 31 个，远端资源清单与本地发布目录一致，含全部 22 张图片 |
+| 平台能力 | 显式声明仅启用 `storage` |
+
+封面、简介、图文介绍、操作说明、玩法分类与标签均已提交。发布过程和检查边界见 [发布记录](发布记录.md)。请登录创作者账号打开草稿。独立资源访问检查返回 403，平台内加载与真实云档读写仍需在星匣预览中验收。
 
 <!-- RELEASE_STATUS_END -->
 
@@ -142,6 +153,7 @@ art-prompts.json            完整生成提示词与修正记录
 asset-manifest.json         图像尺寸与 SHA-256
 REA-逆向报告.md             机制研究、来源与取证边界
 验证记录.md                 本机与平台检查记录
+发布记录.md                 星匣草稿与 GitHub 交付记录
 ```
 
 ## 创作与参考
