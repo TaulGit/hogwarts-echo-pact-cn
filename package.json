@@ -1,0 +1,11 @@
+{
+  "name": "hogwarts-echo-pact-cn",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 5187 --directory dist",
+    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/content.js && node --check dist/story-visuals.js && node --check dist/visual-feedback.js"
+  }
+}

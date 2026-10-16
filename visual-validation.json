@@ -1,0 +1,82 @@
+{
+  "version": "1.2.0",
+  "date": "2026-10-16",
+  "images": 22,
+  "newStoryImages": 11,
+  "unitTests": {
+    "passed": 23,
+    "failed": 0
+  },
+  "browser": [
+    {
+      "id": "battle-fx",
+      "evidence": "ev_bd7f8d6d11681e800df8f3f4973fa04924eecf4a277f3ed4685846e5466d370f",
+      "steps": 26,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "id": "expand",
+      "evidence": "ev_b97cb3ba2ad028eb0931ff5e8363da4596fec257e1494808a773936f7ec7f565",
+      "steps": 6,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "id": "full",
+      "evidence": "partial capture",
+      "steps": 427,
+      "failed": [],
+      "errors": [],
+      "cleanup": "incomplete"
+    },
+    {
+      "id": "ink",
+      "evidence": "ev_9e063e316f9309931264c18b4a82f7b888a7d6efd3078302b78641d4e4bc73e5",
+      "steps": 5,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "id": "journal",
+      "evidence": "ev_760b0edb2329ee9ef3b3b25091662d7b7477c9a09ef90136cd3056e199ef5afc",
+      "steps": 61,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "id": "mobile",
+      "evidence": "ev_e1a659938d4c5c385c41975f4ebbd7e1ecf7ca48a3938e41380393e0f9aa587b",
+      "steps": 5,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "id": "motion",
+      "evidence": "ev_ef996497246b540f5290b1dbceae382268955a621bcef8548477e270b2661003",
+      "steps": 12,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    }
+  ],
+  "fullRouteVisuals": [
+    "ink",
+    "ledger",
+    "leaves",
+    "letter",
+    "mirror",
+    "ring",
+    "finale"
+  ],
+  "nativeMotion": {
+    "enabledObserved": true,
+    "switchOffObserved": true,
+    "notes": "Native Chrome screenshots differ over time with effects enabled; switch state and static reading verified. REA screenshots intentionally disable CSS animation and are not motion recordings."
+  }
+}

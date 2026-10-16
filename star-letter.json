@@ -1,0 +1,37 @@
+{
+  "gameId": 0,
+  "title": "霍格沃茨：回声之约",
+  "tags": [
+    "霍格沃茨",
+    "同人",
+    "剧情向",
+    "魔法校园",
+    "回合制",
+    "多结局"
+  ],
+  "gameCategory": [],
+  "summary": "画像开始遗忘，废弃钟楼却在午夜响起。与艾琳一起安排课程、调查旧事、并肩施法，在万圣夜前找回六段失落的记忆。",
+  "cover": "./cover.png",
+  "gameFile": "./dist",
+  "gameType": 0,
+  "screen": 0,
+  "priceType": 0,
+  "visibility": 1,
+  "capabilityDeclaration": {
+    "schemaVersion": 1,
+    "capabilities": {
+      "storage": {
+        "enabled": true
+      },
+      "oss": {
+        "enabled": false
+      },
+      "ai": {
+        "enabled": false
+      },
+      "exchange": {
+        "enabled": false
+      }
+    }
+  }
+}

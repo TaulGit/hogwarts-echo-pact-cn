@@ -1,0 +1,132 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-16",
+  "viewportSizes": [
+    [
+      1440,
+      960
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "codeTests": {
+    "passed": 13,
+    "failed": 0
+  },
+  "starLetterCheck": {
+    "ok": true,
+    "warnings": []
+  },
+  "browser": [
+    {
+      "screen": "battle-desktop",
+      "evidence": "ev_f7ec816db8dabc2113eb8177ab4177ddf89d11f1a12ab50e4a7d4898e2e6d620",
+      "steps": 23,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "choice",
+      "evidence": "ev_dd933112748a63cd6f37560f3acc8120096ce4cb3898e165d18c9950cfed6166",
+      "steps": 12,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "compact-title",
+      "evidence": "ev_3aa55b27f6cc87606e684a35b0bbb6864900fa816495300760c807c27cb2b77b",
+      "steps": 3,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "summary",
+      "evidence": "ev_2e17dfb983377ceb580b1f8a1eb645bff1470794ce59a35b09f84613f4b676dc",
+      "steps": 57,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "ending",
+      "evidence": "partial capture",
+      "steps": 427,
+      "failed": [],
+      "errors": [],
+      "cleanup": "incomplete"
+    },
+    {
+      "screen": "lessons",
+      "evidence": "ev_fc11de4db0650a00af5fbe2910507aa73c252ee763a899739e52e17dde6fa840",
+      "steps": 18,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "mobile-battle",
+      "evidence": "ev_ce3d30a0e89385e82475a33aed4883fb011f7c404957321dfd3068e52d675c63",
+      "steps": 23,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "mobile-story",
+      "evidence": "partial capture",
+      "steps": 2,
+      "failed": [],
+      "errors": [],
+      "cleanup": "incomplete"
+    },
+    {
+      "screen": "mobile-title",
+      "evidence": "partial capture",
+      "steps": 2,
+      "failed": [],
+      "errors": [],
+      "cleanup": "incomplete"
+    },
+    {
+      "screen": "mobile-planner",
+      "evidence": "ev_22fb52445ecd4b3c689fd240b2d8ae98447f0868712a0b88919db30121120dd5",
+      "steps": 17,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "settings",
+      "evidence": "ev_9a7c7b6207b08556a5be5ec3bbacb8b1d5107b5226a0dfacc9604093174f91f4",
+      "steps": 3,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "story",
+      "evidence": "ev_7ce5b201a7b4d60503354de5132d963f90b37e860bc51ddad4ff6644a86bc28c",
+      "steps": 2,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    },
+    {
+      "screen": "title",
+      "evidence": "ev_cf96f65283ed9d2f93185b22afb13a29d7f5defdea270667ed27f663d815bdb1",
+      "steps": 2,
+      "failed": [],
+      "errors": [],
+      "cleanup": "terminated-owned-process"
+    }
+  ]
+}

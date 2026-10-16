@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+.star-letter/
+credentials.json
+*.pem
+*.key

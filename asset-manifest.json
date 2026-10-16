@@ -1,0 +1,215 @@
+{
+  "created": "2026-10-16",
+  "version": "1.2.0",
+  "assets": [
+    {
+      "file": "dist/assets/armour.png",
+      "bytes": 1516648,
+      "width": 1254,
+      "height": 1254,
+      "colorType": 6,
+      "sha256": "1b267bd52c2c372ac1db16619ead333cef40ce4cf0f4c5c5081211d23adef5b8",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/classroom.png",
+      "bytes": 2687427,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "3c306aa2175d8d9c764b255ba5e9fffeb4babdb200eaab955fcc50ef0c8ce236",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/companion.png",
+      "bytes": 2127184,
+      "width": 1024,
+      "height": 1536,
+      "colorType": 6,
+      "sha256": "6c9b4d358582967a9775d248df62c7e0695400c5896bacc94096af8ea6b396ad",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/corridor.png",
+      "bytes": 2914095,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "ce96c2a27217a960b08e2f9b37776f9007ebd17ec648668b4ec065d469bb6d54",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/courtyard.png",
+      "bytes": 2600808,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "eb5a71c4f157fa39b2629c11760726a723e4b51ec9b4934333f07d41cd92a0c0",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/ending-archive.png",
+      "bytes": 2810301,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "1f2cfcec23fa74ac7e5c9dca1f008d083ae8c9dc5b86af4c70a0643631c2f790",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/ending-dawn.png",
+      "bytes": 2775777,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "cb52a136c2abd8af79710bec2a422a8b1e92cd1565139affae91a5f7990abe1c",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/ending-silence.png",
+      "bytes": 2642957,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "86079a8997c92e43512dcef7d59bf1b13ac766ee7b36125774b5f34d0b4f4de8",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/ending-together.png",
+      "bytes": 2773694,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "a7122c0684d1b775e093f5ace05feb66383b339edeece9cfabd488cea36474b7",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/forest.png",
+      "bytes": 3132436,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "23b85c72a325653433dcf508e45e0f9918c999bd44593b53e3435c063a67c07b",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/greenhouse.png",
+      "bytes": 3305210,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "6c09b15489e1929149ec4536d5de42d69731d4b01cb93aff58ea2201f3f1fbbf",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/player.png",
+      "bytes": 2158726,
+      "width": 1024,
+      "height": 1536,
+      "colorType": 6,
+      "sha256": "69591c668cd643d11f5a13d72068cb6b04304e4b5a06feb763a53fef805b8995",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/shade.png",
+      "bytes": 2034513,
+      "width": 1254,
+      "height": 1254,
+      "colorType": 6,
+      "sha256": "7bb50d891e0cb82d8b0272b21451c275d3e7786ba22015387fc6036b142d7e73",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/story-finale.png",
+      "bytes": 3075934,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "0373abb6927dfc443d066f95006fea7a4aacddf013008801169c28c2bed9f089",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-ink.png",
+      "bytes": 2565560,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "2d863d1a7c08b92577e14f59045773d9fb16b5e9e1413f712bd0d39423d3314e",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-leaves.png",
+      "bytes": 2907609,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "f8b49b51021916c78c49430e0241255b0998e686be2653fa75d7b7c02c85b1cb",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-ledger.png",
+      "bytes": 2454914,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "f0297cd0cb0efd6d433c2bc05ca61e4e985c11f5429f6064f4cf27534746a9f1",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-letter.png",
+      "bytes": 2704356,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "91c3e1cb2e03473e9cf5d81b10f384da806c4ac7de3d6cf5961d01abd6e3ed4f",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-mirror.png",
+      "bytes": 3154086,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "94ef2004f0ddd80e51afcc5e3d5afd0a9f3becdc086e9dec79a0f9f035a83309",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/story-ring.png",
+      "bytes": 3059198,
+      "width": 1536,
+      "height": 1024,
+      "colorType": 2,
+      "sha256": "b81115ce5b35b8ee83f666cbe3c5970d270c5bd1d116776e242a476ff220d298",
+      "source": "OpenAI built-in ImageGen, original generation",
+      "promptRecord": "art-prompts.json"
+    },
+    {
+      "file": "dist/assets/warden.png",
+      "bytes": 1993592,
+      "width": 1254,
+      "height": 1254,
+      "colorType": 6,
+      "sha256": "8c0048d84ed992d63a20eeac99a1648ebc05f2784db6ad35f690a2aa21b1f845",
+      "source": "OpenAI built-in ImageGen, original generation"
+    },
+    {
+      "file": "dist/assets/wisp.png",
+      "bytes": 1879374,
+      "width": 1254,
+      "height": 1254,
+      "colorType": 6,
+      "sha256": "7678593bb74ed92aa0ede546cf256843e807085581333c40281828569bbf7a41",
+      "source": "OpenAI built-in ImageGen, original generation"
+    }
+  ]
+}
