@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-16",
+  "version": "1.3.0",
+  "sourceHashMatches": true,
+  "durationSecondsNative": 120,
+  "durationSecondsBrowser": 119.9735,
+  "mediaReadyState": 4,
+  "mediaError": null,
+  "beforeInteraction": {
+    "paused": true,
+    "time": 0
+  },
+  "afterInteraction": {
+    "paused": false,
+    "time": 36.898667
+  },
+  "volumeUIValueTested": 50,
+  "preferencesSurviveReload": true,
+  "singleAudioElement": true,
+  "dialogueDoesNotRestart": true,
+  "choicePause": {
+    "paused": true,
+    "time": 52.707954
+  },
+  "returnToTitle": {
+    "paused": false,
+    "time": 53.341333
+  },
+  "consoleWarningsOrErrors": 0,
+  "backgroundPauseImplemented": true,
+  "backgroundPauseBrowserVerified": false,
+  "platformHostAudioVerified": false,
+  "testsPassed": 23
+}

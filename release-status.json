@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-16T12:30:34.941720+00:00",
-  "version": "1.2.0",
+  "checkedAt": "2026-10-16T13:52:33.938389+00:00",
+  "version": "1.3.0",
   "repository": "https://github.com/TaulGit/hogwarts-echo-pact-cn",
   "gameId": 9813,
   "draftUrl": "https://game.virtualoverapp.com/game/draft/9813",
@@ -9,12 +9,13 @@
   "displayStatus": "draft",
   "gameFilePresent": true,
   "coverPresent": true,
-  "runtimeFileCount": 31,
-  "runtimeTotalBytes": 57455068,
+  "runtimeFileCount": 33,
+  "runtimeTotalBytes": 60337877,
   "runtimePathsMatch": true,
   "runtimePaths": [
     "app.js",
     "assets/armour.png",
+    "assets/audio/autiletwing-castle.mp3",
     "assets/classroom.png",
     "assets/companion.png",
     "assets/corridor.png",
@@ -39,6 +40,7 @@
     "content.js",
     "engine.js",
     "index.html",
+    "music.js",
     "platform.js",
     "story-visuals.js",
     "style.css",
@@ -62,19 +64,28 @@
       }
     }
   },
-  "method": "platform-web-zip-upload",
+  "method": "star-letter-publish-draft",
   "cliVersion": "0.1.42",
-  "cliPublishBlocker": "CAPACITY_PREFLIGHT_UNAVAILABLE",
   "testsPassed": 23,
   "realCloudSaveVerified": false,
   "cdnVerification": {
-    "status": "not_verified",
-    "independentEntryHttpStatus": 403,
-    "methods": [
-      "GET",
-      "HEAD"
-    ],
-    "platformRefererRetried": true,
+    "status": "not_verified_for_1.3.0",
+    "previousIndependentEntryHttpStatus": 403,
+    "previousVersion": "1.2.0",
     "platformIframeVerified": false
-  }
+  },
+  "capacityPreflight": {
+    "enabled": true,
+    "passed": true,
+    "stage": "capacity-preflight",
+    "assetsBytes": 2283,
+    "snapshotBytes": 4233,
+    "assetsLimitBytes": 16777215,
+    "snapshotLimitBytes": 16777215,
+    "snapshotIncludesPublishPins": false,
+    "scope": "content-without-publish-pins",
+    "fileCountLimit": 1000,
+    "violations": []
+  },
+  "musicIncluded": true
 }

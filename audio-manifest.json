@@ -1,0 +1,20 @@
+{
+  "tracks": [
+    {
+      "id": "theme",
+      "title": "Autiletwing Castle",
+      "file": "dist/assets/audio/autiletwing-castle.mp3",
+      "sourceFilename": "Autiletwing Castle.mp3",
+      "source": "User-provided Suno generation",
+      "durationSeconds": 120,
+      "sampleRate": 48000,
+      "channels": 2,
+      "bytes": 2877098,
+      "sha256": "d84afb01ecb19e58d1abfbb8cdff4b4d5e5cf8cc9538aec5890b27e295f09145",
+      "scenes": [
+        "title",
+        "week-1-intro"
+      ]
+    }
+  ]
+}

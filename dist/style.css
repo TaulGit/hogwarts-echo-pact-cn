@@ -631,3 +631,14 @@ h1, h2, h3, .brand, .dialogue-name { font-family: var(--serif); }
   .battle-actions>.btn, .battle-actions>.btn.primary { padding: 10px; font-size: 11px; }
   .dialogue-bottom>span:nth-child(2) { display: none; }
 }
+
+/* Theme music controls stay independent of spell sound effects. */
+.title-controls { display:flex; align-items:center; gap:12px; }
+.music-shortcut { padding:9px 13px; color:var(--gold); font-size:12px; white-space:nowrap; border:1px solid #c5ab7040; border-radius:22px; background:#101f2670; }
+.music-shortcut:hover { border-color:var(--gold); background:#101f26bb; }
+.music-shortcut:focus-visible { outline:2px solid var(--gold); outline-offset:3px; }
+.music-volume-row>label { font-size:14px; }
+.music-volume-controls { display:flex; align-items:center; gap:12px; }
+.music-volume-controls input { width:150px; max-width:34vw; accent-color:#807047; cursor:pointer; }
+.music-volume-controls output { min-width:38px; text-align:right; font-size:12px; font-variant-numeric:tabular-nums; }
+@media(max-width:600px) { .title-controls { gap:8px; } .music-shortcut { padding:8px 10px; font-size:11px; } .music-volume-controls { gap:8px; } }

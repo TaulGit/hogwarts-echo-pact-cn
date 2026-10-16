@@ -1,10 +1,10 @@
 # 星匣能力设计评审
 
-日期：2026-10-16；游戏版本：1.2.0。
+日期：2026-10-16；游戏版本：1.3.0。
 
 ## 结论
 
-**pass**。本作仅使用 `sdk.storage`，不调用 AI、兑换或运行时 OSS 上传。结构检查另由 `star-letter check .` 完成。
+**pass**。本作仅使用 `sdk.storage`，不调用 AI、兑换或运行时 OSS 上传。1.3.0 的音乐随静态目录发布，不增加 SDK 调用或云档字段。结构检查另由 `star-letter check .` 完成。
 
 依据官方 SDK `2.4.9`、文档 `rev29` 的 [storage 发布前设计自检](https://gz-vchar-pub.nosdn.127.net/star-letter/game-sdk-docs/v2.4.9/storage.md)。本轮已重新读取带时间戳的官方 manifest，确认 `v2` 对应上述版本与修订。
 
